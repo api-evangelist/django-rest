@@ -1,0 +1,39 @@
+{
+    "name": "Django REST",
+    "description": "<p>Django REST framework is a powerful and flexible toolkit that makes it easy to build Web APIs.&nbsp;It offers an attractive, web browseable version of your API, and the option of returning raw JSON. The Django Rest Framework provides powerful model serialization, display data using standard function based views, or get granular with powerful class based views for more complex functionality. All in a fully REST compliant wrapper.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/django-rest-framework.png",
+    "tags": [
+        "api service provider",
+        "deployment",
+        "framework",
+        "have api",
+        "hypermedia"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/django-rest\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Django REST",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/django-rest-framework.png",
+            "humanURL": "http:\/\/www.django-rest-framework.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/django-rest-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.django-rest-framework.org"
+        }
+    ]
+}
